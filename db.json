@@ -1,22 +1,26 @@
+
 {
   "tokens": [
-      {
-    "id": 0,
-    "description": “The Dealer",
-    "image": "https://www.thedealer.blackrainbow.co.uk/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-29-at-16.20.05.jpeg",
-    "name": “Reefer 0"
-  },
-  {
-    "id": 1,
-    "description": “The Dealer",
-    "image": "https://www.thedealer.blackrainbow.co.uk/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-29-at-16.20.05.jpeg",
-    "name": “Reefer 1”
-  },
-  {
-    "id": 2,
-    "description": “The Dealer",
-    "image": "https://www.thedealer.blackrainbow.co.uk/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-29-at-16.20.05.jpeg",
-    "name": “Reefer 2”
-  }
+    {
+      "id": 0,
+      "description": "My NFT",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+      "name": "My NFT 0"
+    },
+    {
+      "id": 1,
+      "description": "My NFT",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+      "name": "My NFT 1"
+    },
+    {
+      "id": 2,
+      "description": "My NFT",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+      "name": "My NFT 2"
+    }
   ]
 }
